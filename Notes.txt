@@ -7,3 +7,4 @@ source ~/env/bin/activate --> activate the virtual environment
 deactiavte
 django-admin.py startproject profiles_project .
 python manage.py startapp app_name
+revisit from section 5 and complete till 10 atleast on wednesday
