@@ -14,3 +14,6 @@ models, modelmanager, migration
 -> python manage.py createsuperuser
 ####start the server
 -> python manage.py runserver 0.0.0.0:8000
+
+## so create model, run migration, create super user, create api view (views.py), 
+## include urls.py of app in the parent urls.py of project
