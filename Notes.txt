@@ -1,10 +1,13 @@
 # Notes
-vagrant init
-vagrant up
-vagrant ssh
-python -m venv ~/env --> create a python virtual environment //create a virtual environment
-source ~/env/bin/activate --> activate the virtual environment //activate the virtual environemnt
-deactiavte
-django-admin.py startproject profiles_project .
-python manage.py startapp app_name
-check what django and djangorestframework does.
+-> vagrant init
+-> vagrant up
+-> vagrant ssh
+-> python -m venv ~/env --> create a python virtual environment //create a virtual environment
+-> source ~/env/bin/activate --> activate the virtual environment //activate the virtual environemnt
+-> deactiavte
+-> django-admin.py startproject profiles_project_2 .
+-> python manage.py startapp app_name
+########################check what django and djangorestframework does.
+models, modelmanager, migration
+-> python manage.py makemigrations profiles_api
+-> python manage.py migrate
