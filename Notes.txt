@@ -20,3 +20,7 @@ models, modelmanager, migration
 ##serializer --> simple and ModelSerializer
 ##queryset
 ##authentication and permission
+5003a97c3d2c467aa6f2bf7f97f3a1eb53d95e93  -> token for akumar3
+
+Django Object Relational Mapping
+
